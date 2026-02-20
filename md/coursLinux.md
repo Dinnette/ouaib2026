@@ -98,7 +98,6 @@ La commande `cp` permet de copier une source vers une destination en la renomman
 ```bash
 § cp cheminFichierSource cheminDossierDestination/nouveauNom
 ```
-
 -----------------
 La commande `rm -r` permet de supprimer un dossier et tout son contenu
 
